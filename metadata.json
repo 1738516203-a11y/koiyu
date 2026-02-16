@@ -1,0 +1,8 @@
+{
+  "name": "恋语 LoveGlot",
+  "description": "LianYu (恋语) is a language learning companion app where your AI romantic partner helps you practice foreign languages in an immersive, Otome-game inspired environment.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
